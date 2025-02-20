@@ -9,7 +9,7 @@ The Task Management System is a simple web application that allows users to add 
 - ✅ RESTful API – Backend APIs built with Express.js.
 - ✅ Postman Testing – API endpoints tested via Postman.
 
-Tech Stack
+# Tech Stack
 <br>
  🔹 Front-End: React.js, Redux
  <br>
