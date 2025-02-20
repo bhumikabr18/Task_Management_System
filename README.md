@@ -1,4 +1,4 @@
-# Task Management System
+# Task Management Application
 # Overview
 The Task Management System is a simple web application that allows users to add and delete tasks. The backend is built using Node.js and Express.js, while the frontend is developed with React.js. The API is tested using Postman, and all tasks can be retrieved using the GET method.
 
