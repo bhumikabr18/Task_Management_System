@@ -10,7 +10,6 @@ The Task Management System is a simple web application that allows users to add 
 - ✅ Postman Testing – API endpoints tested via Postman.
 
 # Tech Stack
-<br>
  🔹 Front-End: React.js, Redux
  <br>
  🔹 Back-End: Node.js, Express.js
@@ -22,10 +21,12 @@ The Task Management System is a simple web application that allows users to add 
 # Run the Application
 ## Start the Backend Server
 cd backend
+<br>
 node server.js
 
 ## Start the Frontend
 cd frontend
+<br>
 npm start
 
 # API Testing (Using Postman)
